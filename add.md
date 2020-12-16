@@ -51,3 +51,4 @@ git commit -m «init»
 ```
 git clone https://github.com/avsudnichnikov/example
 ```
+# [Работа с удалённым репозиторием](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+PHP-2.0+2020/courseware/d27ba083970241e4b9c5fcb835addce9/ea69748ba20c4e858a6d364ec0b51108/14?activate_block_id=block-v1%3ASkillFactory%2BPHP-2.0%2B2020%2Btype%40vertical%2Bblock%40f6834009d90b4c519b11dca060e24b8b)
