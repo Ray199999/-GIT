@@ -27,7 +27,7 @@ LICENSE: [MIT](/license.md)
 
 
 
-2. [git add](/add.md)
+2. [Основные операции GIT](/add.md)
 
 
 
