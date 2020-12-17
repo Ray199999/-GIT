@@ -1,6 +1,3 @@
-[<к содержанию](./readme.md) 
-
-
 ## Установка GIT в LInux Ubuntu (CLI apt)
 Проверка наличия GIT:
 ```
@@ -12,3 +9,5 @@ $ git --version
 ```
 $ sudo apt install git
 ```
+
+[<<начало](./readme.md) 
