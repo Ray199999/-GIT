@@ -65,4 +65,4 @@ LICENSE: [MIT](/license.md)
 ----
 ###### Git logo by Jason Long https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-##### <div style="text-align: right"> Алексей Чабанов группа php 8 </div>
+###### <div style="text-align: right"> Алексей Чабанов группа php 8 </div>
